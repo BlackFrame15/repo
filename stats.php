@@ -1,3 +1,4 @@
+//Command処理
 <?php
 class RecentStatsCommand extends Command {
     public function execute($args) {
